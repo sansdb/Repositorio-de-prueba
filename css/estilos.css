@@ -2,3 +2,11 @@ p {
     margin: 5px;
     padding: 5px;
 }
+
+body {
+    text-align: center;
+    font-family: Arial;
+    font-size: 40px;
+    background-color: slategrey;
+    font-weight: 600;
+}
